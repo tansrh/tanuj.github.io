@@ -120,9 +120,10 @@ font-weight: bold;
 #cnt{
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
+    
     width: 100%;
     height: fit-content;
+    justify-content: center;
 }
 #cnt h1{
     width: 100%;
