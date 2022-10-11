@@ -124,6 +124,7 @@ font-weight: bold;
     width: 100%;
     height: fit-content;
     justify-content: center;
+    align-items:center;
 }
 #cnt h1{
     width: 100%;
@@ -132,6 +133,7 @@ font-weight: bold;
 
 }
 #cnt div{
+    
     border: 3px solid rgb(3, 3, 3);
     background-color: white;
     
