@@ -132,7 +132,7 @@ font-weight: bold;
     margin: 20px;
 
 }
-#cnt div{
+#cnt a{
    background-color: white;   
     width: 100%;
     height: fit-content;
